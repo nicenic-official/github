@@ -1,7 +1,7 @@
 ## Nicenic.NET Official GitHub Organization
 
 Welcome to **Nicenic.NET**, an **ICANN-accredited domain registrar** trusted by resellers and service providers worldwide.  
-We provide reliable domain registration, DNS management, email, and SSL services through **Nicenic.NET** and **Nicenic.COM**.
+We provide reliable domain registration, DNS management, hosting server, business Email, and SSL services through **Nicenic.NET** and **Nicenic.COM**.
 
 
 ### 🌐 Official Websites
