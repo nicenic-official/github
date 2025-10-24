@@ -9,7 +9,7 @@ We provide reliable domain registration, DNS management, email, and SSL services
 - [https://www.nicenic.com](https://www.nicenic.com)
 
 ### 🏢 About Us
-Founded in 2006, Nicenic.NET is an ICANN, Verisign, and HKIRC accredited registrar.  
+Founded in 2012, Nicenic.NET is an ICANN, Verisign, and HKIRC accredited registrar.  
 We serve global partners with a complete suite of domain services, reseller API integration, and multi-TLD registration support.
 
 ### 🧩 For Developers
